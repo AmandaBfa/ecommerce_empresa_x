@@ -30,3 +30,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 #### Imagem local
 
 ![Logo do Payton](img/python.png)
+
+#### Imagem externa
+
+![Logo do Python](https://e7.pngegg.com/pngimages/277/62/png-clipart-python-javascript-clojure-programming-language-programming-miscellaneous-angle.png)
