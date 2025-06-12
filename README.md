@@ -42,3 +42,5 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 [https://www.youtube.com](https://www.youtube.com)
 
 Contribuidor principal: https://www.github.com/matheusbattisti
+
+![Logo do PHP]()
