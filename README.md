@@ -33,7 +33,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 #### Imagem externa
 
-![Logo do Python](https://e7.pngegg.com/pngimages/277/62/png-clipart-python-javascript-clojure-programming-language-programming-miscellaneous-angle.png)
+![Logo do Python](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/330px-Python_logo_and_wordmark.svg.png)
 
 ## Links interessantes:
 
